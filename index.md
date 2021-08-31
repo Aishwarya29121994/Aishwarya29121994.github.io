@@ -1,5 +1,6 @@
 ## Welcome to my website
 
+I'm Aishwarya Bhangarshettra, currently doing by Master's in Big Data Analytics from San Diego State University. Please feel free to check out my website below. You can get in touch with me through my [email](bhangarshettra.aishwarya@gmail.com).
 ## Dataset- Kaggle.com
 
 Kaggle is one of the most competative dataset available on-line. Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows usder to find and publish data sets, and build projects related to data-science field. It allows users to work woth other data science developers and machine learning engineers and partipate in the challenges.
