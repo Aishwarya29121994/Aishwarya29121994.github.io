@@ -13,37 +13,10 @@ Here the link:
 [Covid-19 India Dataset](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
 
 # Data Science: An Introduction
+
 The book provide basic introduction to data science. The book is designed for someone who is has the basic understanding on math, science, spreadsheet and no computer knowledge being assumed. The book approaches more towards critical and problem solving skills. Data Science as a profession and academic discipline is recently born and the book acts as a child to the mature parental disciplines of scientific methods, data and software engineering, statistics and visualization. This book is proficient to introduce parallel processing, map-reduce computing, SQL, Tableau, no SQL databases, advance statistics and complexity science. This book also covers the basic introduction to Java, Python, Hadoop, MYSQL, Matlab ,SPSS, SAS, etc . Overall, this book will help student to get a basic knowledge of all the aspects involved in data science.
 
+This book is on special interest to me as it allows me to explore all the topics taht is related to data analysis and data science. Various programming tools, databases , data visualzation toll can be learnt form this test book.
 
-
-
-You can use the [editor on GitHub](https://github.com/Aishwarya29121994/Aishwarya29121994.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aishwarya29121994/Aishwarya29121994.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Here the Link:
+[Introduction to Data Science](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction)
